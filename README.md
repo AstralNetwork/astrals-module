@@ -1,6 +1,6 @@
 # Modules by AstralNetwork
 
-VFX Modules, created by me (AstralNetwork) and some are from unnamed sources(thank you). I made this personally for public use and the incentive of this project was made of boredom. Even so, a thank you is appreciated. This module stands off visual effects and UIs that may be of use of action games, combat or perhaps a gun system, to summarize it all, it is suitable for any type of projects and purposes. The only barrier that's holding you back is from the aspect of how you want to use it, how you would implement it, and how you would design it. I might not be able to help you with that as you know what's best to do with your own project.
+VFX Modules, created by me (AstralNetwork) and some are from unnamed sources(thank you). I made this personally for public use and the incentive of this project was made out of boredom. Even so, a thank you is appreciated. This module stands off visual effects and UIs that may be of use of action games, combat or perhaps a gun system, to summarize it all, it is suitable for any type of projects and purposes. The only barrier that's holding you back is from the aspect of how you want to use it, how you would implement it, and how you would design it. I might not be able to help you with that as you know what's best to do with your own project.
 
 
 | Visual | Description |
